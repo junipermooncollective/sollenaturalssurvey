@@ -40,7 +40,7 @@ border-radius: 12px;">
 <br> <br>
 <input type="checkbox" name="question"><label for="checkbox2" class="checkbox-text">During allergy season, I could seriously qualify to play Sneezy in Snow White.</label>  
 <br> <br>
-<input type="checkbox" name="question"><label for="checkbox3" class="checkbox-text">Wrestling Live Gators would be less stressful than my job</label>    
+<input type="checkbox" name="question"><label for="checkbox3" class="checkbox-text">Wrestling live gators would be less stressful than my job</label>    
 <br> <br>
 <input type="checkbox" name="question"><label for="checkbox4" class="checkbox-text">If I wanted to offend someone, I could do it best by taking my shoes off next to them
 on a hot summer's day.</label>    
@@ -71,7 +71,7 @@ you! You should try a packet and see how you feel.</h2></div>
 <div class="col-sm-2">
 <div class="thumbnail">
 <img width="100%" src="sollevital.png">
-<p class="caption">Brought to you by Solle Vital</p></div>
+<p class="caption">Results brought to you by Solle Vital</p></div>
 </div>
 </div>
 <div class="row" id="categorylist2" style="border-top-style: solid; border-top-color: #c0d701; text-align: center; margin-bottom: 0px;">
@@ -84,7 +84,7 @@ you! You should try a packet and see how you feel.</h2></div>
 <div class="col-sm-2">
 <div class="thumbnail">
 <img width="100%" src="sollevital.png">
-<p class="caption">Brought to you by Solle Vital</p></div>
+<p class="caption">Results brought to you by Solle Vital</p></div>
 </div>
 </div>
 <div class="row" id="categorylist3" style="border-top-style: solid; border-top-color: #c0d701; text-align: center; margin-bottom: 0px;">
@@ -99,7 +99,7 @@ your vital signs, you need it. Save what health you have left and try some.</h2>
 <div class="col-sm-2">
 <div class="thumbnail">
 <img width="100%" src="sollevital.png">
-<p class="caption">Brought to you by Solle Vital</p>
+<p class="caption">Results brought to you by Solle Vital</p>
 </div>
 </div>
 </div>
