@@ -68,7 +68,11 @@ danger of boiling over</label>
 <div class="col-sm-8">
 <h2 style="color: #3d3d3d; margin-top: 30px; margin-bottom: 25px; text-align: justify;">Your Vital Signs are pretty good, but there are indications that Solle Vital could help
 you! You should try a packet and see how you feel.</h2></div>
-<div class="col-sm-2"><img class="img-thumbnail" src="sollevital.png"></div>
+<div class="col-sm-2">
+<div class="thumbnail">
+<img width="100%" src="sollevital.png">
+<p class="caption">Brought to you by Solle Vital</p></div>
+</div>
 </div>
 <div class="row" id="categorylist2" style="border-top-style: solid; border-top-color: #c0d701; text-align: center; margin-bottom: 0px;">
 <div class="col-sm-12">
